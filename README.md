@@ -9,7 +9,7 @@ Implementar em Java, com camada model completa e camada de persistência para a s
 Um sistema de pagamento de funcionários que precisa cadastrar os funcionários por um ID único (INT), nome (VARCHAR(60)), salário (FLOAT). O sistema deve permitir o CRUD Completo dessa entidade e um Select ALL.
 Além disso, o sistema deve ter, na camada de controle, uma forma de calcular, para posterior exibição, o desconto INSS do funcionário, que segue o seguinte padrão:
 
-- Até R\$ 1.212,00 (salário-mínimo) – 7,5% do salário
+- Até R&dollar; 1.212,00 (salário-mínimo) – 7,5% do salário
 - Entre R\$ 1. 212,00 e R\$ 2.427,35 – 9% da diferença
 - Entre R\$ 2.427,36 e R\$ 3.641,03 – 12% da diferença
 - Entre R\$ 3.641,03 e R\$ 7.087,22– 14% da diferença
